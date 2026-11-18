@@ -3,11 +3,18 @@
   <img src="assets/hero-light.svg" width="100%" alt="A Kaushik Gandhi. AI Development Associate. I build internal software end to end, with AI agents working in the loop. Bengaluru, India.">
 </picture>
 
-### What I do
+### About me
 
-I build internal web tools end to end: the data model, the workflows, and the screens people use every day.<br>
-The stack is TypeScript and React on the front, Supabase and Postgres underneath, shipped on Vercel.<br>
-Claude Code is in the loop every day, and I spend real time teaching it to get better at working with me.
+I'm an AI engineer in Bengaluru who ships production AI end to end, mostly solo, with Claude Code and agent harnesses in the loop every day.
+
+- **Now:** founding AI engineer at a clinical research company, building its internal tools on TypeScript, React, Supabase, Postgres and Vercel.
+- **Before:** a multilingual phone voice agent in five Indian languages, and production LLM pipelines.
+- **Focus:** LLMs, RAG and agentic AI, voice AI, production ML.
+- **Background:** M.Sc. in AI & ML (Christ University, 2026), a paper at IC-AIDA 2026, 1st place in a national datathon.
+- **Side projects:** TechConnect, CivicBot (a RAG assistant), and autoimprove, below.
+- **Writing:** neural audio codecs, voice AI and agentic RAG, on [Medium](https://medium.com/@kauxhik77).
+
+More on my site: **[kaushik-builds.xyz](https://www.kaushik-builds.xyz)**
 
 <br>
 
@@ -37,4 +44,4 @@ Claude Code is in the loop every day, and I spend real time teaching it to get b
 
 <p align="center"><sub>TypeScript · React · Supabase · Postgres · Vercel · Claude Code</sub></p>
 
-<p align="center"><a href="https://www.linkedin.com/in/gandhi-kaushik">LinkedIn</a></p>
+<p align="center"><a href="https://www.kaushik-builds.xyz">Portfolio</a> · <a href="https://www.linkedin.com/in/gandhi-kaushik">LinkedIn</a> · <a href="https://medium.com/@kauxhik77">Medium</a></p>
