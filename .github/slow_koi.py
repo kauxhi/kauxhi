@@ -1,7 +1,7 @@
 """Slow the koi GIF by raising every frame delay. git-koi renders at 2cs per frame."""
 import sys
 
-DELAY_CS = 4  # 4 = half speed (25 fps). Raise to go slower, 2 restores the original.
+DELAY_CS = 8  # 8 = quarter speed (12.5 fps). 4 = half speed, 2 = original.
 
 path = sys.argv[1]
 d = bytearray(open(path, "rb").read())
