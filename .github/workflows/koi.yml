@@ -24,6 +24,8 @@ jobs:
         with:
           body: white
           output-dir: koi
+      - name: Slow the koi down
+        run: python3 .github/slow_koi.py koi/koi.gif
       - name: Commit the koi if it changed
         shell: bash
         run: |
