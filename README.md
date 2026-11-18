@@ -16,6 +16,8 @@ I'm an AI engineer in Bengaluru who ships production AI end to end, mostly solo,
 
 More on my site: **[kaushik-builds.xyz](https://www.kaushik-builds.xyz)**
 
+Latest article: [I built a Claude Code skill that makes Claude auto improve, and checks whether it really did](https://medium.com/@kauxhik77/i-built-a-claude-code-skill-that-makes-claude-auto-improve-and-checks-whether-it-really-did-9e3af9cf85ed)
+
 <br>
 
 <a href="https://github.com/kauxhi/autoimprove-deja-vu">
