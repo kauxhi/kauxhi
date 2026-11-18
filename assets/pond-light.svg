@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="40" viewBox="0 0 880 40" role="presentation">
+<line x1="0" y1="20.5" x2="380" y2="20.5" stroke="#d0d7de"/>
+<line x1="500" y1="20.5" x2="880" y2="20.5" stroke="#d0d7de"/>
+<ellipse cx="440" cy="20" rx="52" ry="12" fill="none" stroke="#57606a" stroke-opacity="0.35"/>
+<ellipse cx="440" cy="20" rx="30" ry="7" fill="none" stroke="#57606a" stroke-opacity="0.6"/>
+<circle cx="440" cy="20" r="3" fill="#0f9f8f"/>
+</svg>
