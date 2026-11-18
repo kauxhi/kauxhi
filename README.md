@@ -5,9 +5,9 @@
 
 ### About me
 
-I'm an AI engineer in Bengaluru who ships production AI end to end, mostly solo, with Claude Code and agent harnesses in the loop every day.
+I'm an AI Development Associate in Bengaluru who ships production AI end to end, mostly solo, with Claude Code and agent harnesses in the loop every day.
 
-- **Now:** founding AI engineer at a clinical research company, building its internal tools on TypeScript, React, Supabase, Postgres and Vercel.
+- **Now:** AI Development Associate at a clinical research company, building its internal tools on TypeScript, React, Supabase, Postgres and Vercel.
 - **Before:** a multilingual phone voice agent in five Indian languages, and production LLM pipelines.
 - **Focus:** LLMs, RAG and agentic AI, voice AI, production ML.
 - **Background:** M.Sc. in AI & ML (Christ University, 2026), a paper at IC-AIDA 2026, 1st place in a national datathon.
